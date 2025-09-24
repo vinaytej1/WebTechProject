@@ -6,8 +6,8 @@ CINE HUNGAMA
 - [Screenshots](#screenshots)
 ---
 ## About
-A simple, basic mini web page application develope to demonstrate HTML, CSS, JavaScript, php skills.
-It's was done as part of assignment in WTA subject. Just choose movie as funthing.
+A simple, basic mini web page application developed to demonstrate HTML, CSS, JavaScript, php skills.
+It's was done as part of assignment in WTA subject. Just choose movie as fun thing.
 
 ---
 ## Installation
